@@ -1,4 +1,5 @@
 # Code-demo
 This is my git repository
 <br>
-Author - Aayush Sharma
+Author - Aayush Sharma ( sharma ji )
+
